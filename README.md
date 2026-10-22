@@ -7,12 +7,10 @@ low cost (no fancy things) diferential probe
     <p><i>Un proyecto para mediciones seguras y precisas con osciloscopio. Basado en componentes disponibles en cualquier laboratrio o tienda de electrónica, sin embargo el reto el cual afronte y te invito a seguirlo es el de replicar esta sonda con componentes disponibles es tus cajones</i></p>
     
     <!-- Badges / Etiquetas -->
-    <a href="LICENSE.md">
-        <img src="https://img.shields.io/badge/Licencia-CC%20BY--NC--SA%203.0-orange.svg" alt="Licencia CC BY-NC-SA 3.0">
-    </a>
-    <img src="https://img.shields.io/badge/Hardware-KiCad-blue.svg" alt="KiCad">
-    <img src="https://img.shields.io/badge/3D%20Print-STL-green.svg" alt="3D Print STL">
-</div>
+    <!-- Badges / Etiquetas alineadas -->
+[![Licencia](https://img.shields.io/badge/Licencia-CC%20BY--NC--SA%203.0-orange.svg)](LICENSE.md)
+[![Hardware](https://img.shields.io/badge/Hardware-KiCad-blue.svg)](https://kicad.org/)
+[![3D Print](https://img.shields.io/badge/3D%20Print-STL-green.svg)](#)
 
 <hr>
 
