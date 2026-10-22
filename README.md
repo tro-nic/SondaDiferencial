@@ -6,8 +6,6 @@ low cost (no fancy things) diferential probe
     <h1>Sonda Diferencial de Baja Tensión de hasta 250Vp ( seno: 176,78Vrms) @ 100kHz </h1>
     <p><i>Un proyecto para mediciones seguras y precisas con osciloscopio. Basado en componentes disponibles en cualquier laboratrio o tienda de electrónica, sin embargo el reto el cual afronte y te invito a seguirlo es el de replicar esta sonda con componentes disponibles es tus cajones</i></p>
     
-    <!-- Badges / Etiquetas -->
-    <!-- Badges / Etiquetas alineadas -->
 [![Licencia](https://img.shields.io/badge/Licencia-CC%20BY--NC--SA%203.0-orange.svg)](LICENSE.md)
 [![Hardware](https://img.shields.io/badge/Hardware-KiCad-blue.svg)](https://kicad.org/)
 [![3D Print](https://img.shields.io/badge/3D%20Print-STL-green.svg)](#)
